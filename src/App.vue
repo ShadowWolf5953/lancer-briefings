@@ -144,9 +144,9 @@ export default {
       "header": {
         "planet": "CRESSIDIUM",
         "year": "5023u",
-        "system": "Unknown",
-        "gate": "Unknown",
-        "ring": "Unknown",
+        "system": "Vestan Bineria-864",
+        "gate": "Lassan",
+        "ring": "Cascade Line",
         "headerTitle": "Solstice Rain",
         "headerSubtitle": "Diplomatic Operation",
         "subheaderTitle": "Escort",
