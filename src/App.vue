@@ -89,12 +89,12 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "002",
           "name": "Bug-Hunt",
           "status": "start"
         },
@@ -142,8 +142,8 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
+        "planet": "CRESSIDIUM",
+        "year": "5023u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
