@@ -147,10 +147,10 @@ export default {
         "system": "Unknown",
         "gate": "Unknown",
         "ring": "Unknown",
-        "headerTitle": "Insert name here",
-        "headerSubtitle": "Union Squadron",
+        "headerTitle": "Union Operative",
+        "headerSubtitle": "Lancer Squadron",
         "subheaderTitle": "Escort",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Squadron name",
       },
       "options":{
         "eventsMarkdownPerMission": true
