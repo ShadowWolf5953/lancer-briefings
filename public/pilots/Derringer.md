@@ -1,6 +1,9 @@
 While growing up with a standard if not above average **comsopolotan family**. Well cared for and loved, he somehow ended up on this ship. Truth be told, He has a **medical degree** and had originaly dreampt of being a DR. However due to a **clarical error** with his Union application he somehow ended up being sent to flight school to become a mech pilot, with delays to correcting the issue he was forced through the school and after discovering a slight joy from piloting he decided to stick with it. Soon after being assigned to his current post the clerical error was corrected, giving him credit for his knowledge and degree, but due to him being on the ship and having his current duties for so long they could not rotate him from being a supply hand to the medical bays as a Dr.
 
 Additional Info:
-Rank - 2nd Lt
+
+Rank - 2nd Lt.
+
 Shogi Squads unofficial medic
+
 Really hates waking up from cryo sleep
