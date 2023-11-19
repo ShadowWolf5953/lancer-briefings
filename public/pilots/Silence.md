@@ -1,1 +1,5 @@
-tba
+While originaly a starship pilot, she quickly bored of the standar rotation of transporting civilians from one planet to another. After finishing the acedemy she was designated a dropship pilot within the union navy, after proving herself a capable pilot on many a mission she eventually found herself piloting on the Hercynian front around 4560u. There after breaking countless laws and disobeying many orders inorder to save as many people as she could on the ground she was deemed a criminal and put into cryo under the fact that union did not want to wast such a good pilot to prison or death. She would later be brought back into the world at the request of a SSG Omari Garcia for assignment to his vessel, for he had heard rumors of her existence and wanted nothing less than the best for his marines if they were going to be traveling so far from home. However to his supprise upon her return she elected to become a mech pilot due to wanting to be on the front lines not just a taxi driver to get there.
+
+Additional info:
+Rank - 2nd Lt
+Is a slut after acouple drinks.
