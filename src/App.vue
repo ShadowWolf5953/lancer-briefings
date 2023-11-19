@@ -98,6 +98,11 @@ export default {
           "name": "The-Drop",
           "status": "start"
         },
+         {
+          "slug": "002",
+          "name": "Day Break",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
