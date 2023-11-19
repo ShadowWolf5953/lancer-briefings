@@ -154,8 +154,8 @@ export default {
         "ring": "Cascade Line",
         "headerTitle": "Solstice Rain",
         "headerSubtitle": "Diplomatic Operation",
-        "subheaderTitle": "Escort",
-        "subheaderSubtitle": "Squadron name",
+        "subheaderTitle": "Security Detail",
+        "subheaderSubtitle": "Shogi Squad",
       },
       "options":{
         "eventsMarkdownPerMission": true
