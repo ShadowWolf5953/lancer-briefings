@@ -138,12 +138,20 @@ export default {
           "mech": "What I Like About You"
         },
         {
-          "callsign": "test5",
-          "alias": 'Clint "CC" Cruz',
+          "callsign": "Wild Turkey",
+          "alias": "Jordan Hyers",
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "TBA"
+        },
+           {
+          "callsign": "Jester",
+          "alias": "F. Yu",
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Chololungma",
+          "mech": "TBA"
         },
       ],
       "header": {
