@@ -2,5 +2,7 @@ Former **urchin gone merc** that decided to hope onto the straight and narrow li
 Post flight academy he was assigned to the UNS-CV Rio Grande as the **Squad leader for Shogi Squad** a newly formed Mech squadron attached to the ship to provide mechanized escort for the diplomatic ambassador named Nilan Bannerjee.
 
 Additonal Intel:
+
 Rank - 1st Lt.
+
 He may or may not have a criminal record tied to **REDACTED** PMC.
