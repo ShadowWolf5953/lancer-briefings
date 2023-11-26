@@ -2,8 +2,6 @@
 
 Additional info:
 
-Rank - 2nd Lt.
-
 Age Unknown due to being put in cryo and taken out only when necessary.
 
 Tolerance to cryo sickness - awakens with a pep in her step
