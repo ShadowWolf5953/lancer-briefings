@@ -10,6 +10,6 @@ Tolerance to cryo sickness - awakens with a pep in her step
 
 knows sign language to communicate with a fellow super soldier
 
-Letter of Commendation: Award pending; "For extraordinary courage in the face of the enemy in overwhelming odds. Hermès  attacked the enemy missile battery dealing extreme damage to the battery and distracting fore from Her squad. As a diirect result of Her actions the rail yard was secured and reinforcements were able to land. Also during the actions leading to contact at the rail yard Hermès risked life and limb to scout a safe route for LSA civilians." - Wild Turkey
+Letter of Commendation: Award pending; "For extraordinary courage in the face of the enemy in overwhelming odds. Hermès  attacked the enemy missile battery dealing extreme damage to the battery and distracting foes from Her squad. As a diirect result of Her actions the rail yard was secured and reinforcements were able to land. Also during the actions leading to contact at the rail yard Hermès risked life and limb to scout a safe route for LSA civilians." - Wild Turkey
 
 Letter of Commendation: Award pending; "Hermes went out of her way to handle tough situations and directly saved the lives of several squadmates over the course of this mission" - Derringer
