@@ -3,8 +3,6 @@ Soon after being assigned to his current post the error was corrected, but were 
 
 Additional Info:
 
-Rank - 2nd Lt.
-
 Shogi Squads unofficial medic
 
 Really hates waking up from cryo sleep
