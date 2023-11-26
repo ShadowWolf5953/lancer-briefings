@@ -2,6 +2,4 @@ While originaly a **starship pilot**, she quickly bored of the standard rotation
 
 Additional info:
 
-Rank - 2nd Lt.
-
 Is a slut after acouple drinks.
