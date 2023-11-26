@@ -2,8 +2,6 @@ While growing up and always having a knack for tech he eventually scored a job w
 
 Additional Info:
 
-Rank - 2nd Lt.
-
 Assigned to this squad/mission due to his proficiency with old tech and intel handling.
 
 No one knows what the F. in his name stands for but its probably Francis or something.
