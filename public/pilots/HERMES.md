@@ -9,3 +9,5 @@ Age Unknown due to being put in cryo and taken out only when necessary.
 Tolerance to cryo sickness - awakens with a pep in her step
 
 knows sign language to communicate with a fellow super soldier
+
+Letter of Commendation: Award pending; For the display extraordinary courage in the face of the enemy in overwhelming odds and for securing the safety of her fellow squad by sacrficing her own during the battle to capture a strategic asset: Nov Elysia's main rail yard.
