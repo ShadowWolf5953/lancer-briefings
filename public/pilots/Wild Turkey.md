@@ -3,6 +3,4 @@ Post flight academy he was assigned to the UNS-CV Rio Grande as the **Squad lead
 
 Additonal Intel:
 
-Rank - 1st Lt.
-
 He may or may not have a criminal record tied to **REDACTED** PMC.
